@@ -1,16 +1,47 @@
-# React + Vite
+# 🚀 Task Manager App (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Overview
+A simple and clean Task Manager web app built using React and Vite.  
+It helps users add, delete, and manage daily tasks with a smooth and responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- ➕ Add new tasks  
+- 🗑️ Delete tasks  
+- ☑️ Mark tasks as completed  
+- 💾 Local storage support (tasks persist after refresh)  
+- 🎨 Clean and responsive UI  
+- ⚡ Fast performance with Vite  
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- React ⚛️  
+- JavaScript  
+- HTML5  
+- CSS3  
+- Vite  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Preview
+<img width="543" height="379" alt="image" src="https://github.com/user-attachments/assets/05cc3ebe-bfb6-4324-8c62-956bf30fa1bc" />
+<img width="492" height="385" alt="image" src="https://github.com/user-attachments/assets/fea461b9-82ba-41fa-86b5-4243dc7c6c15" />
+<img width="482" height="625" alt="image" src="https://github.com/user-attachments/assets/b9656af2-7463-445a-9fe5-aa36b1cc045f" />
+
+---
+
+## Future Improvements
+ - Edit tasks
+ - Search/filter tasks
+ - Drag and drop reordering
+ - Backend integration
+
+## 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/YOUR_USERNAME/task-manager.git
+cd task-manager
+npm install
+npm run dev
